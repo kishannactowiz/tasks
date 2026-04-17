@@ -1,0 +1,79 @@
+{
+  "title": "What this place offers",
+  "amenities": [
+    {
+      "category": "Bathroom",
+      "amenities": [
+        "Hairdryer"
+      ]
+    },
+    {
+      "category": "Bedroom and laundry",
+      "amenities": [
+        "Washing machine",
+        "Bed linen",
+        "Iron",
+        "Clothes storage"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "amenities": [
+        "TV"
+      ]
+    },
+    {
+      "category": "Heating and cooling",
+      "amenities": [
+        "Air conditioning",
+        "Heating"
+      ]
+    },
+    {
+      "category": "Home safety",
+      "amenities": [
+        "Exterior security cameras on property",
+        "Fire extinguisher",
+        "First aid kit"
+      ]
+    },
+    {
+      "category": "Internet and office",
+      "amenities": [
+        "Wifi",
+        "Dedicated workspace"
+      ]
+    },
+    {
+      "category": "Kitchen and dining",
+      "amenities": [
+        "Kitchen",
+        "Cooking basics"
+      ]
+    },
+    {
+      "category": "Parking and facilities",
+      "amenities": [
+        "Free parking on premises"
+      ]
+    },
+    {
+      "category": "Services",
+      "amenities": [
+        "Pets allowed",
+        "Self check-in",
+        "Lockbox"
+      ]
+    },
+    {
+      "category": "Not included",
+      "amenities": [
+        "Tumble dryer",
+        "Essentials",
+        "Smoke alarm",
+        "Carbon monoxide alarm",
+        "Hot water"
+      ]
+    }
+  ]
+}

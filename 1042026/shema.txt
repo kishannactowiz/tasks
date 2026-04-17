@@ -1,0 +1,75 @@
+
+# first image
+
+{
+    listing:{
+        "hotel_name":"Saraswati Niwas"
+        title:"string"
+        "location":"string"
+        "guests": number 
+        "bedrooms":number
+        "bads":number
+        "rating":number
+        "reviews_count":number
+        "host":{
+            "name":"string"
+            "experience": "string"
+        },
+        "Amenities":"string"
+        "description":"string"
+    },
+    "booking":{
+        "price":{
+            "current":"string"
+            "original":"string"
+            "type":"string"
+        },
+        "check_in":"date"
+        "check_out":"date"
+        "guests_selected":number
+        "max_guests": number
+        "cta":"Reserve"
+    }
+}
+
+# second image
+{
+    "time":"string"
+    "allamenities":[
+        {
+            "title":"string"
+            'amenities":"[
+                {
+                    "icon":""
+                    "name":""
+                }
+            ],
+        },
+    ]
+}
+
+# third image
+{
+    [
+        "review":{
+            "name":"string"
+            "date": date
+            "message": "string"
+        },
+    ]
+}
+
+# forth image
+
+{
+    "profile":{
+        "host_name":"string"
+        "designation":"string"
+        "detail":[
+            {
+                "counting":number
+                "detail":""
+            }
+        ]
+    }
+}
