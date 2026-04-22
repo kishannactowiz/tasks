@@ -1,0 +1,592 @@
+{
+    "title": "New Movies in Theaters <span>(2026)</span>",
+    "grid": {
+        "id": "movies_in_theaters_sort:newest",
+        "list": [
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "90",
+                    "scorePercent": "90%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "95",
+                    "scorePercent": "95%",
+                    "sentiment": "positive"
+                },
+                "emsId": "42259f90-e7d4-310e-a3a3-0e889d382ad3",
+                "isVideo": true,
+                "mediaUrl": "/m/whisper-of-the-heart",
+                "mpxId": "1530426435547",
+                "publicId": "0kx16BchglSg",
+                "posterUri": "https://resizing.flixster.com/mB8fKwJR7stGRCBR6mLysdk3hkw=/206x305/v2/https://resizing.flixster.com/iOYqoVyKuD1A_JnUrUlTE6BkCeM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjMGM0MDRjLWZlMDItNGU5OS05MzIzLTMxZjczYTNmYmI3Yi5qcGc=",
+                "releaseDateText": "Re-released Apr 21, 2026",
+                "title": "Whisper of the Heart",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": true,
+                    "score": "93",
+                    "scorePercent": "93%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "53",
+                    "scorePercent": "53%",
+                    "sentiment": "negative"
+                },
+                "emsId": "303cdc47-b933-372e-8ec6-4b16ce0b3bd7",
+                "isVideo": true,
+                "mediaUrl": "/m/that_time_i_got_reincarnated_as_a_slime_the_movie_scarlet_bond",
+                "mpxId": "2159730243987",
+                "publicId": "P7TrSb631z4n",
+                "posterUri": "https://resizing.flixster.com/R3RgFPezRiG0Bao-5EWOvR7OC_U=/206x305/v2/https://resizing.flixster.com/njjDsnL3O2EOkB4Fq4Q9lYcJ2qs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2NGUzZjYyLWU2OTktNDA0YS04MjY0LTc0NjM3MzI0NWMzYy5qcGc=",
+                "releaseDateText": "Re-released Apr 20, 2026",
+                "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "97",
+                    "scorePercent": "97%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "22a1b8dd-a3f0-3195-ba79-0f1e653f1887",
+                "isVideo": false,
+                "mediaUrl": "/m/bts_world_tour_arirang_in_japan_live_viewing",
+                "posterUri": "https://resizing.flixster.com/KKK0ejxOvQ-2CzQbOCH7icONom0=/206x305/v2/https://resizing.flixster.com/VSVIBvbrEZ-HwKbL-VAF-8HLZn4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyODAxNTM0LWY1YTUtNDlkZS05Mzc5LWZmNGU1NTFlNmEzNy5qcGc=",
+                "releaseDateText": "Opened Apr 18, 2026",
+                "title": "BTS World Tour 'Arirang' in Japan: Live Viewing",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "76",
+                    "scorePercent": "76%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "46",
+                    "scorePercent": "46%",
+                    "sentiment": "negative"
+                },
+                "emsId": "55a5dcec-ee67-3fb7-8dde-702335db916a",
+                "isVideo": true,
+                "mediaUrl": "/m/lee_cronins_the_mummy",
+                "mpxId": "2487869507856",
+                "publicId": "HqqmLr1c6Ai_",
+                "posterUri": "https://resizing.flixster.com/lx7SUMfO-nFkzSHoFe1h7VkxAzk=/206x305/v2/https://resizing.flixster.com/jJ2BDS3_ZsdA6Nb9-I47TIDcti8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwMjMwNDRjLWZmYWYtNDMyMS1iOWYyLTgzYzgwOGY2ZjFkMC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Lee Cronin's The Mummy",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "76",
+                    "scorePercent": "76%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": true,
+                    "score": "75",
+                    "scorePercent": "75%",
+                    "sentiment": "positive"
+                },
+                "emsId": "ae8b33b3-cde0-4ebe-a2bd-15069db74d9d",
+                "isVideo": true,
+                "mediaUrl": "/m/normal_2025",
+                "mpxId": "2488083011680",
+                "publicId": "yI7210QXZrqN",
+                "posterUri": "https://resizing.flixster.com/dEqL5HemDpvhGWIn03GhYBxXuVI=/206x305/v2/https://resizing.flixster.com/-xF6RVe1u6mk5hKqG3o-Ty1F25c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlOGZkZDAyLTJjNDctNDU0NC04MTFmLWRhZmRmNzFlMTMyYy5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Normal",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "71",
+                    "scorePercent": "71%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "76be419a-7eb3-30af-910d-24f900d1cb84",
+                "isVideo": false,
+                "mediaUrl": "/m/busboys",
+                "posterUri": "https://resizing.flixster.com/ILXlwUtco9R_gmMq-aZjFQit1c8=/206x305/v2/https://resizing.flixster.com/YdmCdE7OWwLKUuM_sHAG5Xfl15c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzYWM1YzNmLTBlOTgtNDc4OS1hODdmLTM4M2I1OTU4YmEzYS5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Busboys",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "68",
+                    "scorePercent": "68%",
+                    "sentiment": "positive"
+                },
+                "emsId": "5b2f1de4-2fb9-3258-bea1-207a50b848b4",
+                "isVideo": true,
+                "mediaUrl": "/m/lorne",
+                "mpxId": "2490711619905",
+                "publicId": "AghTYDWrYXw1",
+                "posterUri": "https://resizing.flixster.com/0mpAoW2a7LNwDYaR4Ia-_Zqk5n0=/206x305/v2/https://resizing.flixster.com/U_nj3LQrq2TzqqOEh3NQYfQ7CBg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1Nzk2NzNlLTBlZTUtNGY1Ny1iYjk1LTc4MTFkMGNlZmYxYy5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Lorne",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": true,
+                    "score": "88",
+                    "scorePercent": "88%",
+                    "sentiment": "positive"
+                },
+                "emsId": "e74aac57-de0b-4e93-ad08-babf708fe0ff",
+                "isVideo": true,
+                "mediaUrl": "/m/mile_end_kicks",
+                "mpxId": "2491274307829",
+                "publicId": "46gJ9KSZQBaC",
+                "posterUri": "https://resizing.flixster.com/PPGacO9C1flkUC_vHuIt3Hzdw3E=/206x305/v2/https://resizing.flixster.com/y6RGOc6hDuY6MSrugUS-geNWt_Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIwMjZkNzA0LTExODQtNDFlMC04ZTc2LTNhZWZiYWIyNDU3MC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Mile End Kicks",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "69",
+                    "scorePercent": "69%",
+                    "sentiment": "positive"
+                },
+                "emsId": "509aac8c-2a8b-3f9c-b738-ecbe840efbb7",
+                "isVideo": true,
+                "mediaUrl": "/m/ballistic_2026",
+                "mpxId": "2493653571639",
+                "publicId": "1aj6itaA7CHY",
+                "posterUri": "https://resizing.flixster.com/C2EIQkKKW4jDvrnmJEZrfeVC9lU=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32561055_p_v12_ac.jpg",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Ballistic",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "56d3aa1a-2cc2-3a97-9190-81656caf5152",
+                "isVideo": true,
+                "mediaUrl": "/m/brothers_under_fire",
+                "mpxId": "2493661251573",
+                "publicId": "bXb2Y0FRKcFn",
+                "posterUri": "https://resizing.flixster.com/v6eqnrJqmBe65Q0ud3mmWIj6zKI=/206x305/v2/https://resizing.flixster.com/aOzRvXCKemR_6AbU0HQwRneJbeU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY3NTQzZmEyLWRlNzQtNDk4Yi04ZTFlLWRiNjQ5N2RlYTc4YS5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Brothers Under Fire",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": true,
+                    "score": "100",
+                    "scorePercent": "100%",
+                    "sentiment": "positive"
+                },
+                "emsId": "585d8a9c-ae72-4a37-823d-7d5425d516ba",
+                "isVideo": true,
+                "mediaUrl": "/m/wasteman",
+                "mpxId": "2496812611819",
+                "publicId": "81KSXERHe2pe",
+                "posterUri": "https://resizing.flixster.com/XDkVSB5DSi49E3ZZsrYrIdb-_5A=/206x305/v2/https://resizing.flixster.com/AMBo2TkL4aXutvZcW_4vAu2z5zM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNzcwMTVmLTE1OTEtNDQwZC1iZTY4LWZiZDRiNGMxYjU1ZC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Wasteman",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "34ab0f40-d959-3395-8c3a-bfd2a91c8be8",
+                "isVideo": true,
+                "mediaUrl": "/m/the_whistler",
+                "mpxId": "2494505027667",
+                "publicId": "luiwDRzGZma_",
+                "posterUri": "https://resizing.flixster.com/yhXRA4hiUXYZyyrG6ps9Ws1fI3I=/206x305/v2/https://resizing.flixster.com/2ak1wtCwLS5abIUzYRFvDbzkjeo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0YzQyODg3LTdkNmUtNDNlNi04YTM0LTc5YzM3Y2JhOGQwNS5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "The Whistler",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "100",
+                    "scorePercent": "100%",
+                    "sentiment": "positive"
+                },
+                "emsId": "22e5d252-79ba-48e2-97c1-4d10f0efeb14",
+                "isVideo": true,
+                "mediaUrl": "/m/blue_heron",
+                "mpxId": "2492602947900",
+                "publicId": "yPx1q4EE4_IP",
+                "posterUri": "https://resizing.flixster.com/fDr_ScNXV6QLrw6di9iVMRoFbBU=/206x305/v2/https://resizing.flixster.com/eTOpHaTqh_U9ssRHllpmW2SmW4M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxZDQxM2YxLTAwMGEtNDMzZS05NjJlLWFjYjFhZWEzMTMxZC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Blue Heron",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "100",
+                    "scorePercent": "100%",
+                    "sentiment": "positive"
+                },
+                "emsId": "64a3f505-fcdd-3380-b9ea-efbec39feb8e",
+                "isVideo": true,
+                "mediaUrl": "/m/marama",
+                "mpxId": "2497074755789",
+                "publicId": "plscy65bIVYZ",
+                "posterUri": "https://resizing.flixster.com/0x2J9-4qyzu7wf_apOe3qhvFhaU=/206x305/v2/https://resizing.flixster.com/tMCKclH1nG4AqubWpGrtaTQT5pI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViNWJkOGE4LThkNGMtNDU3YS04ZDhmLTIwNzdiYzk1YmIyZC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "M\u0101rama",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": true,
+                    "score": "85",
+                    "scorePercent": "85%",
+                    "sentiment": "positive"
+                },
+                "emsId": "27a31ee9-648a-4180-8ea6-0d8002bcbe8e",
+                "isVideo": true,
+                "mediaUrl": "/m/erupcja",
+                "mpxId": "2486467651507",
+                "publicId": "FJYEM1UCwTtG",
+                "posterUri": "https://resizing.flixster.com/6G4zo0JNU9aAEG-bCsxLmHS3YBk=/206x305/v2/https://resizing.flixster.com/ptEBOluIsT_CO1s34xwwZUHDes8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4ZGFmYzkxLWI2NWQtNGE1Ny1iMGIxLTc1Njk3MjBkMDQ1Ny5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Erupcja",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "00ed31e6-dab8-32b6-ae8c-3ff0e8bb106d",
+                "isVideo": false,
+                "mediaUrl": "/m/everyone_is_lying_to_you_for_money",
+                "posterUri": "https://resizing.flixster.com/49B_LKqSvv12AZEQ824VlNJNYEg=/206x305/v2/https://resizing.flixster.com/C36aDD5Miy11fi4G6pJ6jv0Wpok=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwOTI4MDcyLWMzZTEtNDliMi05N2JiLWMxZWMxM2VjMDQ0YS5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Everyone Is Lying to You for Money",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "96",
+                    "scorePercent": "96%",
+                    "sentiment": "positive"
+                },
+                "emsId": "815a4258-94ee-381c-8f47-f1c563ff127b",
+                "isVideo": true,
+                "mediaUrl": "/m/amrum",
+                "mpxId": "2495083075844",
+                "publicId": "F_TrYHnMVPIG",
+                "posterUri": "https://resizing.flixster.com/JZ7AqU8s3paX6VyC0MJ9vb5U6Nc=/206x305/v2/https://resizing.flixster.com/f8UOw_IAgzSL867bSQ6GcEAZOt4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxYjFkZGQ5LTg2NTgtNDM3Mi1hZmMxLTZlNTU5NWI5MThmZC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Amrum",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "380b7629-4559-34bd-848f-aab1cfd963d2",
+                "isVideo": true,
+                "mediaUrl": "/m/the_gardener_2026",
+                "mpxId": "2491814467673",
+                "publicId": "zJnXKthwurIT",
+                "posterUri": "https://resizing.flixster.com/hJ9eYiiyNcvDK5LvSBnJiBHA0yI=/206x305/v2/https://resizing.flixster.com/srIcNT-_B8NG7KwPMpZ4hjloctA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y4OTA4MDE2LTdkNGMtNDQ3Ni04MWZhLTdmOWRjYjhmOGY2NS5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "The Gardener",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "76",
+                    "scorePercent": "76%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": true,
+                    "score": "89",
+                    "scorePercent": "89%",
+                    "sentiment": "positive"
+                },
+                "emsId": "e6a0e522-41a1-3d34-98d9-70031ae9ad5d",
+                "isVideo": true,
+                "mediaUrl": "/m/bridesmaids_2011",
+                "mpxId": "1464578627893",
+                "publicId": "WXg_I6nDh0Z0",
+                "posterUri": "https://resizing.flixster.com/cfCk5pVTGthyKieGXG2UyqD-JrU=/206x305/v2/https://resizing.flixster.com/yJg_aUTbtdQP9higcjqpEri2VAQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2OWQwNTMwLWFkMmUtNGNlYy04YjI1LWY3NjlkNDcyZGUwZi5qcGc=",
+                "releaseDateText": "Re-released Apr 17, 2026",
+                "title": "Bridesmaids",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "a88de0d0-8752-434c-92ac-1f5a94ef6952",
+                "isVideo": false,
+                "mediaUrl": "/m/fireflies_at_el_mozote",
+                "posterUri": "https://resizing.flixster.com/IZABp-WKZVOq4QXoc9woz89rLr4=/206x305/v2/https://resizing.flixster.com/gxOz9Or6QI38Wf9ZwAXccm5Pv9k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkY2Y5M2IwLWRjMWQtNDRjNi04ZGI0LTRhZmU3YzgyN2ZkYy5wbmc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Fireflies at El Mozote",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "73",
+                    "scorePercent": "73%",
+                    "sentiment": "positive"
+                },
+                "emsId": "2d80cc70-39cf-30a6-b9ed-2a062ea1f152",
+                "isVideo": false,
+                "mediaUrl": "/m/eagles_of_the_republic",
+                "posterUri": "https://resizing.flixster.com/FpH-7AO7BdtHRqVZKunc2huIQkM=/206x305/v2/https://resizing.flixster.com/G2MLtVHzbmCL_ZdAnEg3li7vCAM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiNDExYmRiLTkwMmQtNDBkMy1iZGI2LWI4NjY0YzJkZTIzYi5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Eagles of the Republic",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "91",
+                    "scorePercent": "91%",
+                    "sentiment": "positive"
+                },
+                "emsId": "967da43e-a1c8-4b0b-b67b-97cbd8bc5c8b",
+                "isVideo": true,
+                "mediaUrl": "/m/the_mountain_2024",
+                "mpxId": "2496662595596",
+                "publicId": "UAMxwO8pxgyb",
+                "posterUri": "https://resizing.flixster.com/Fg5FI4Xkepl5E35t_L3KNCgMMbY=/206x305/v2/https://resizing.flixster.com/1M0etNiZ5u88z9PYDxsYf5B7B1U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkZjM0OTVkLWQyMzMtNDgxYS05ZmFkLWE0NGYwZTRmMTY3Yi5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "The Mountain",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "89",
+                    "scorePercent": "89%",
+                    "sentiment": "positive"
+                },
+                "emsId": "a90d33dc-6dde-4d8f-94fd-af552cc208cd",
+                "isVideo": true,
+                "mediaUrl": "/m/mad_bills_to_pay_or_destiny_dile_que_no_soy_malo",
+                "mpxId": "2492805187509",
+                "publicId": "HqWHshtY5UrV",
+                "posterUri": "https://resizing.flixster.com/t-NLZYdjR1GIuiMHHiJPT8FkBUM=/206x305/v2/https://resizing.flixster.com/No55vDTmSYSC02EQRgEANop6au8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNlZDEzYTA3LTYxZWYtNDI0Ni05YTVjLWRjNzFlODBjMmE2OC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "1ac93820-9a3d-3087-b0d0-ac9a855fb1a7",
+                "isVideo": false,
+                "mediaUrl": "/m/american_solitaire",
+                "posterUri": "https://resizing.flixster.com/kXU4tdstq8pY6m17kqsINAWB9mE=/206x305/v2/https://resizing.flixster.com/l6F_Tj62wmtR8ScYTdExV6IfHsg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QyNTA0ZGY4LWRmMDQtNGZmYS05Yjk2LThjMDQxMTI0MGNlZi5wbmc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "American Solitaire",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "ec3eb106-03a4-4a4b-847f-e30b94d3243f",
+                "isVideo": true,
+                "mediaUrl": "/m/panda_plan_2_the_magical_tribe",
+                "mpxId": "2486208579770",
+                "publicId": "owqvvxkmUFtH",
+                "posterUri": "https://resizing.flixster.com/nJsyV-EXhMh-NwwmDtptrOii-WA=/206x305/v2/https://resizing.flixster.com/-boZ_RxRQ9WhUQjAQp7p9xJv2Mk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMxMTA4NmQ3LWI3ODctNDBkNi04MDA1LWJmOTM3OWYxOGViNC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Panda Plan 2: The Magical Tribe",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "c7267830-99df-3a94-a6f1-953f3edff1ce",
+                "isVideo": false,
+                "mediaUrl": "/m/mabel_2026",
+                "posterUri": "https://resizing.flixster.com/x9x9flHRi0saNgFTHosOkSIrIgQ=/206x305/v2/https://resizing.flixster.com/OhUskJACo1IEtrg1R0wT9HnWFnk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdiNGM0YzRkLWIxMTMtNDVkNi04NWViLTAxY2I5MDA5ZDY5OC5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Mabel",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "5beaeb80-222b-3c24-97c1-152b7d1a353f",
+                "isVideo": false,
+                "mediaUrl": "/m/mr_x_2026",
+                "posterUri": "https://resizing.flixster.com/VRx3qS39oslPxc_Ii-aWO3q1d7I=/206x305/v2/https://resizing.flixster.com/k3Xb7Cex8gq9Oep45a8w8FNwz8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3YjBhODM2LWE0NjgtNDNiMS1iZDE1LTU4ZGI5NDIwODRjYy5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Mr. X",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "c5a76c55-2e4f-4380-881c-052c805f5168",
+                "isVideo": false,
+                "mediaUrl": "/m/papam_prathap",
+                "posterUri": "https://resizing.flixster.com/Wrd1H-vSb4AnwPlBxN9QRwf7G3Y=/206x305/v2/https://resizing.flixster.com/0ShQ4Yu5ZZ8mZX7szOPgam2A7GU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxOGNjNzg3LTkwOWEtNDhkNi1hMmFmLWEzM2Y2OWQ5YzIwYS5qcGc=",
+                "releaseDateText": "Opened Apr 17, 2026",
+                "title": "Papam Prathap",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "certified": false,
+                    "score": "70",
+                    "scorePercent": "70%",
+                    "sentiment": "positive"
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "score": "20",
+                    "scorePercent": "20%",
+                    "sentiment": "negative"
+                },
+                "emsId": "6f73cadb-a57e-48c2-a93e-c74bf2fdb02f",
+                "isVideo": true,
+                "mediaUrl": "/m/bhooth_bangla",
+                "mpxId": "2492838467844",
+                "publicId": "Y5chosEvx88Y",
+                "posterUri": "https://resizing.flixster.com/Ur0nlewhCjnNa6-I9G9og0GuueM=/206x305/v2/https://resizing.flixster.com/B4hCWBvhP2qnejHM8rdyH2q0gEg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNzkxYjk2LWU0ZjMtNGJiYS05ZTYxLTA1MGJmY2YxNGNhNy5wbmc=",
+                "releaseDateText": "Opened Apr 16, 2026",
+                "title": "Bhooth Bangla",
+                "type": "Movie"
+            },
+            {
+                "audienceScore": {
+                    "scorePercent": ""
+                },
+                "criticsScore": {
+                    "certified": false,
+                    "scorePercent": ""
+                },
+                "emsId": "0aa6877a-1411-30c5-a4fe-3dbc0fcee8db",
+                "isVideo": false,
+                "mediaUrl": "/m/salmokji_whispering_water",
+                "posterUri": "https://resizing.flixster.com/iC6cZNwLyIz0oPWuU9xusua2_co=/206x305/v2/https://resizing.flixster.com/c1i1t5hTkADsJIo8bo7iRzGbXXs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3NzI3YzQzLWQ1ZDktNDc2MC1iNGU4LWM1ZGE3NDI3YjlmZC5qcGc=",
+                "releaseDateText": "Opened Apr 16, 2026",
+                "title": "Salmokji: Whispering Water",
+                "type": "Movie"
+            }
+        ]
+    },
+    "pageInfo": {
+        "startCursor": "Mjg=",
+        "endCursor": "NTc=",
+        "hasNextPage": true,
+        "hasPreviousPage": true
+    }
+}
